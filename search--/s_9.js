@@ -1,0 +1,1 @@
+search_result['9']=["topic_0000000000000003_overloads--.html","IotDeviceData\u0026lt;T\u0026gt; Constructor","Called from derived classes, validates struct type parameter and creates an internal instance of it."];

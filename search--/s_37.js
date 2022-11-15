@@ -1,0 +1,1 @@
+search_result['37']=["topic_0000000000000011.html","MqttBroker(ILogger\u0026lt;MqttBroker\u0026gt;) Constructor","Initializes a new instance of the MqttBroker class."];

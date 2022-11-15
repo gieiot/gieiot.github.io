@@ -1,0 +1,1 @@
+search_result['48']=["topic_0000000000000016.html","MqttClientOptions.KeepAlivePeriod Property","Gets o sets the period in seconds at which pings are sent to broker."];

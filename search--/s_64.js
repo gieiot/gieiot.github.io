@@ -1,0 +1,1 @@
+search_result['64']=["topic_0000000000000021.html","MqttClient(IOptionsMonitor\u0026lt;MqttClientOptions\u0026gt;) Constructor","Initializes a new instance of the MqttClient class."];

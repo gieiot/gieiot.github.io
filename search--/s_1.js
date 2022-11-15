@@ -1,0 +1,1 @@
+search_result['1']=["topic_0000000000000001.html","IotDeviceData\u0026lt;T\u0026gt; Class","Generic abstract wrapper class for c devices data structs that are transmitted as a byte array."];
