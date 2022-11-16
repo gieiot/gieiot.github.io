@@ -1,1 +1,1 @@
-search_result['55']=["topic_0000000000000019_props--.html","MqttClient Properties",""];
+search_result['55']=["topic_0000000000000019.html","Connected Event","Event triggered when cliet is connected."];

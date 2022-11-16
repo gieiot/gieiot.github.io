@@ -1,1 +1,1 @@
-search_result['61']=["topic_000000000000001E.html","MqttClient.ClientId Property","Gets the Mqtt Client Id sent to server on connection./\u003e."];
+search_result['61']=["topic_000000000000001F.html","IGnssClient.CloseAsync Method","Stops client service."];

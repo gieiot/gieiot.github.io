@@ -1,1 +1,1 @@
-search_result['54']=["topic_0000000000000019_methods--.html","MqttClient Methods",""];
+search_result['54']=["topic_0000000000000018.html","IGnssClient.ReportsCountBeforeNoFix Property","Gets number of NoFix reports required by client to switch status."];

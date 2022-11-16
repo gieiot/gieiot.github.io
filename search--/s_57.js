@@ -1,1 +1,1 @@
-search_result['57']=["topic_000000000000001A.html","Connected Event","Event triggered when connected to server."];
+search_result['57']=["topic_000000000000001B.html","Error Event","Event triggered when service detects an error."];

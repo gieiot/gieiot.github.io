@@ -1,1 +1,1 @@
-search_result['58']=["topic_000000000000001B.html","Disconnected Event","Event triggered when disconnected from server."];
+search_result['58']=["topic_000000000000001C.html","StatusChanged Event","Event triggered when gps status changes."];

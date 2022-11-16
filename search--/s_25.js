@@ -1,1 +1,1 @@
-search_result['25']=["topic_000000000000000C.html","MqttSystemProperties(Guid) Constructor",""];
+search_result['25']=["topic_000000000000000B_overloads--.html","GnssClientErrorEventArgs Constructor","Initializes a new instance of the GnssClientErrorEventArgs class without more info."];

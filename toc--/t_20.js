@@ -1,1 +1,1 @@
-c['20']=[['21',"StartAsync Method","topic_0000000000000012.html",0],['22',"StopAsync Method","topic_0000000000000013.html",0]];
+c['20']=[['21',"GnssTpvReport Constructor","topic_0000000000000027.html",0],['22',"Properties","topic_0000000000000020_props--.html",1]];

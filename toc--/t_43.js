@@ -1,1 +1,1 @@
-c['43']=[['44',"BrokerAddress Property","topic_0000000000000017.html",0],['45',"BrokerPort Property","topic_0000000000000018.html",0],['46',"ClientId Property","topic_0000000000000015.html",0],['47',"KeepAlivePeriod Property","topic_0000000000000016.html",0]];
+c['43']=[['44',"Connected Event","topic_0000000000000019.html",0],['45',"Disconnected Event","topic_000000000000001A.html",0],['46',"Error Event","topic_000000000000001B.html",0],['47',"StatusChanged Event","topic_000000000000001C.html",0],['48',"TpvReportReceived Event","topic_000000000000001D.html",0]];

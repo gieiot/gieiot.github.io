@@ -1,1 +1,1 @@
-c['33']=[['34',"CloseAsync Method","topic_0000000000000026.html",0],['35',"SendLocationAsync Method","topic_0000000000000027.html",0],['36',"StartAsync Method","topic_0000000000000025.html",0]];
+c['33']=[['34',"Properties","topic_0000000000000013_props--.html",1],['40',"Methods","topic_0000000000000013_methods--.html",1],['43',"Events","topic_0000000000000013_events--.html",1]];

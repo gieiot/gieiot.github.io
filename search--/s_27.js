@@ -1,1 +1,1 @@
-search_result['27']=["topic_000000000000000D.html","Gie.Iot.Telemetry.Mqtt Namespace",""];
+search_result['27']=["topic_000000000000000C_overloads--.html","GnssClientErrorEventArgs Constructor","Initializes a new instance of the GnssClientErrorEventArgs class."];

@@ -1,1 +1,1 @@
-search_result['73']=["topic_0000000000000026.html","MqttClient.CloseAsync Method","Closes a connection to a broker."];
+search_result['73']=["topic_0000000000000026.html","GnssTpvReport.Speed Property","Gets an sets Speed."];

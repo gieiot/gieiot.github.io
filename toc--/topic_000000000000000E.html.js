@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000003A.html"],['13',"Gie.Iot.Telemetry.Mqtt Namespace","topic_000000000000000D.html"],['14',"MqttBroker Class","topic_000000000000000E.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Gie Iot Documentation","topic_0000000000000028.html"],['4',"Gie.Iot.Acquisition.Gnss Namespace","topic_0000000000000000.html"],['16',"GnssClientStatusEventArgs Class","topic_000000000000000D.html"],['18',"Properties","topic_000000000000000D_props--.html"],['19',"Status Property","topic_000000000000000E.html"]];

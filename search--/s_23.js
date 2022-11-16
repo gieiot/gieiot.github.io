@@ -1,1 +1,1 @@
-search_result['23']=["topic_000000000000000B.html","MqttSystemProperties Constructor",""];
+search_result['23']=["topic_000000000000000A.html","GnssClientErrorEventArgs.MoreInfo Property","Gets more info about error."];

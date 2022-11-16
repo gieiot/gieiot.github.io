@@ -1,1 +1,1 @@
-search_result['44']=["topic_0000000000000014_methods--.html","MqttClientOptions Methods",""];
+search_result['44']=["topic_0000000000000013.html","IGnssClient Interface","Interface for Gnss clients."];

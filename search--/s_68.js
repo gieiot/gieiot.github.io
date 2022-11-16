@@ -1,1 +1,1 @@
-search_result['68']=["topic_0000000000000023.html","MqttClient(MqttClientOptions) Constructor","Initializes a new instance of the MqttClient class."];
+search_result['68']=["topic_0000000000000021.html","GnssTpvReport.Status Property","Gets and sets GnssStatus."];

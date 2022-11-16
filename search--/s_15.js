@@ -1,1 +1,1 @@
-search_result['15']=["topic_0000000000000007_attached_props--.html","MqttSystemProperties Attached Properties",""];
+search_result['15']=["topic_0000000000000007.html","GnssClientDisconnectedEventArgs Constructor","Initializes a new instance of the GnssClientDisconnectedEventArgs class."];

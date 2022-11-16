@@ -1,1 +1,1 @@
-search_result['52']=["topic_0000000000000019_attached_props--.html","MqttClient Attached Properties",""];
+search_result['52']=["topic_0000000000000016.html","IGnssClient.IsConnected Property","True if client is connected."];

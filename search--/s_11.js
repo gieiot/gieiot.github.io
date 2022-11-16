@@ -1,1 +1,1 @@
-search_result['11']=["topic_0000000000000004_overloads--.html","IotDeviceData\u0026lt;T\u0026gt; Constructor","Called from derived classes, validates struct type parameter and creates an\r\ninternal instance based on list received."];
+search_result['11']=["topic_0000000000000006_events--.html","GnssClientDisconnectedEventArgs Events",""];

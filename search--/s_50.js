@@ -1,1 +1,1 @@
-search_result['50']=["topic_0000000000000018.html","MqttClientOptions.BrokerPort Property","Broker TCP port number."];
+search_result['50']=["topic_0000000000000014.html","IGnssClient.TpvReportCurrent Property","Gets current GnssTpvReport."];

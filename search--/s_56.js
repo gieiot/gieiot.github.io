@@ -1,1 +1,1 @@
-search_result['56']=["topic_0000000000000019_vars--.html","MqttClient Fields",""];
+search_result['56']=["topic_000000000000001A.html","Disconnected Event","Event triggered when client connection is closed."];

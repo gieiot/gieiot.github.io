@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>Gie.Iot Namespace</title>
+	<title>Gie.Iot.Acquisition.Gnss Namespace</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Gie Iot Solutions Documentation</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,16 +74,17 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">Gie.Iot Namespace</h1>
+		<h1 class="title">Gie.Iot.Acquisition.Gnss Namespace</h1>
         
 		<div class="metadata">
 
-        <br />Assembly: Gie.Iot (in Gie.Iot.dll)
+        <br />Assembly: Gie.Iot.Acquisition (in Gie.Iot.Acquisition.dll)
 
 		</div>
 
        
        
+        <summary-info>Contains data models, interfaces and commons for gnss acquisition clients.</summary-info>
 
 
 
@@ -155,11 +156,106 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
     
 	  </td>
 	  <td>
-	    <a href="topic_0000000000000001.html">IotDeviceData&lt;T&gt;</a>
+	    <a href="topic_0000000000000004.html">GnssClientConnectedEventArgs</a>
 	  </td>
 	  <td>
 
-Generic abstract wrapper class for c devices data structs that are transmitted as a byte array.
+Class that contains information about client connected.
+
+		</td>
+	</tr>
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000006.html">GnssClientDisconnectedEventArgs</a>
+	  </td>
+	  <td>
+
+Class that contains information about client disconnected.
+
+		</td>
+	</tr>
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000008.html">GnssClientErrorEventArgs</a>
+	  </td>
+	  <td>
+
+Class that contains information about <a target="_top" href="topic_0000000000000013.html" onclick="this.target='';return true;">IGnssClient</a> error event.
+
+		</td>
+	</tr>
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_000000000000000D.html">GnssClientStatusEventArgs</a>
+	  </td>
+	  <td>
+
+Class that contains current gps status of <a target="_top" href="topic_0000000000000013.html" onclick="this.target='';return true;">IGnssClient</a>.
+
+		</td>
+	</tr>
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000020.html">GnssTpvReport</a>
+	  </td>
+	  <td>
+
+Time-position-velocity report class.
+
+		</td>
+	</tr>
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000010.html">GnssTpvReportEventArgs</a>
+	  </td>
+	  <td>
+
+Class that contain <a target="_top" href="topic_0000000000000020.html" onclick="this.target='';return true;">GnssTpvReport</a> received event data.
 
 		</td>
 	</tr>
@@ -169,6 +265,103 @@ Generic abstract wrapper class for c devices data structs that are transmitted a
 <!-- Standard Modules -->
 
 <!-- Standard Modules End -->
+
+  </table>
+
+  <a href="#mainBody">
+    Top
+  </a>
+
+	</div>					
+</div>
+
+
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Interfaces</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="InterfaceSection" class="section">	
+  <table class="memberListTable">
+    <tr>
+      <th></th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+    </tr>
+
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public interface" title="Public interface" src="msdn2019/pubinterface.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000013.html">IGnssClient</a>
+	  </td>
+	  <td>
+
+Interface for Gnss clients.
+
+		</td>
+	</tr>
+
+  </table>
+
+  <a href="#mainBody">
+    Top
+  </a>
+
+	</div>					
+</div>
+
+
+
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Enumerations</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="EnumerationSection" class="section">	
+  <table class="memberListTable">
+    <tr>
+      <th></th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+    </tr>
+
+	<tr class="
+	
+	
+	">
+	  <td>
+    <img alt="Public enumeration" title="Public enumeration" src="msdn2019/pubenum.png"></img>
+
+
+    
+	  </td>
+	  <td>
+	    <a href="topic_0000000000000001.html">GnssStatus</a>
+	  </td>
+	  <td>
+
+Gnss location status.
+
+		</td>
+	</tr>
 
   </table>
 
@@ -204,12 +397,7 @@ Generic abstract wrapper class for c devices data structs that are transmitted a
 
 
 
-
-
-
-
   
-
 
 
 
@@ -229,8 +417,8 @@ Generic abstract wrapper class for c devices data structs that are transmitted a
 	</div>
 
 	<div id="frameworksSection" class="section">	
-  <h4 class="subHeading">.NET Framework</h4>Supported in: 4.5, 4.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2, 4.7, 4.7.1, 4.7.2, 4.8<br />
 
+  <h4 class="subHeading">.NET Core</h4>Supported in: 6.0<br />
 
 
 

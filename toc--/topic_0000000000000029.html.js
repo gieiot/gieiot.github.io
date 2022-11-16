@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000003A.html"],['13',"Gie.Iot.Telemetry.Mqtt Namespace","topic_000000000000000D.html"],['66',"MqttServerOptions Class","topic_0000000000000028.html"],['67',"Properties","topic_0000000000000028_props--.html"],['70',"KeepAlivePeriod Property","topic_0000000000000029.html"]];

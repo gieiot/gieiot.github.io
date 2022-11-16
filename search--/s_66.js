@@ -1,1 +1,1 @@
-search_result['66']=["topic_0000000000000022.html","MqttClient(IOptionsMonitor\u0026lt;MqttClientOptions\u0026gt;, ILogger\u0026lt;MqttClient\u0026gt;) Constructor","Initializes a new instance of the MqttClient class."];
+search_result['66']=["topic_0000000000000020_props--.html","GnssTpvReport Properties",""];

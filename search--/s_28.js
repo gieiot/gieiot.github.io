@@ -1,1 +1,1 @@
-search_result['28']=["topic_000000000000000E.html","MqttBroker Class","Iot Mqtt broker based on MQTTnet."];
+search_result['28']=["topic_000000000000000D.html","GnssClientStatusEventArgs Class","Class that contains current gps status of IGnssClient."];

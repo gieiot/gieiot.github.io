@@ -1,1 +1,1 @@
-search_result['16']=["topic_0000000000000007_events--.html","MqttSystemProperties Events",""];
+search_result['16']=["topic_0000000000000008.html","GnssClientErrorEventArgs Class","Class that contains information about IGnssClient error event."];
