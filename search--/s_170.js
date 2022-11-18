@@ -1,0 +1,1 @@
+search_result['170']=["topic_0000000000000057.html","ISerialApi.PortOpen Method","Opens underlying serial port."];

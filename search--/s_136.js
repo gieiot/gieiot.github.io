@@ -1,0 +1,1 @@
+search_result['136']=["topic_000000000000004B.html","SerialApiDigi.ReceiveDataAsync (CancellationToken) Method","Receives the payload of an Api frame with cancellation token."];

@@ -1,1 +1,1 @@
-search_result['2']=["topic_0000000000000004.html","GnssClientConnectedEventArgs Class","Class that contains information about client connected."];
+search_result['2']=["topic_0000000000000004.html","GnssConnectedEventArgs Class","Class that contains information when a IGnssClient is connected."];

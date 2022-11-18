@@ -1,0 +1,1 @@
+c['51']=[['52',"GpsdClient Constructor","topic_0000000000000038_overloads--.html",1],['57',"Properties","topic_000000000000002D_props--.html",1],['63',"Methods","topic_000000000000002D_methods--.html",1],['66',"Events","topic_000000000000002D_events--.html",1]];

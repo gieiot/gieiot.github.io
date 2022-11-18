@@ -1,1 +1,1 @@
-search_result['30']=["topic_000000000000000D_events--.html","GnssClientStatusEventArgs Events",""];
+search_result['30']=["topic_000000000000000D_events--.html","GnssStatusEventArgs Events",""];

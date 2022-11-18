@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Gie Iot Libraries","topic_00000000000000BC.html"],['179',"Gie.Iot.Hardware.Ports.Commons Namespace","topic_000000000000004D.html"],['180',"BaudRateChangedEventArgs Class","topic_000000000000004E.html"],['181',"BaudRateChangedEventArgs Constructor","topic_0000000000000050.html"]];

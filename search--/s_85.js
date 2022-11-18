@@ -1,0 +1,1 @@
+search_result['85']=["topic_000000000000002D.html","GpsdClient Class","Client to get GNSS data from GPSd Client."];

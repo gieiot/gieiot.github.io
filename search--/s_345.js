@@ -1,0 +1,1 @@
+search_result['345']=["topic_00000000000000B8.html","SerialPortMock.WriteLineAsync (String, Int32, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with timeout and cancellation token."];

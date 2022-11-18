@@ -1,0 +1,1 @@
+search_result['314']=["topic_00000000000000A8.html","SerialPortMock.Close Method","Closes serial port."];

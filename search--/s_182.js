@@ -1,0 +1,1 @@
+search_result['182']=["topic_000000000000005E.html","ISerialApi.SendDataAsync (List\u0026lt;Byte\u0026gt;, Int32) Method","Sends a payload in an Api frame with timeout."];

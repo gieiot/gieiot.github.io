@@ -1,1 +1,1 @@
-search_result['10']=["topic_0000000000000006_attached_props--.html","GnssClientDisconnectedEventArgs Attached Properties",""];
+search_result['10']=["topic_0000000000000006_attached_props--.html","GnssDisconnectedEventArgs Attached Properties",""];

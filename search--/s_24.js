@@ -1,1 +1,1 @@
-search_result['24']=["topic_000000000000000B.html","GnssClientErrorEventArgs(String) Constructor","Initializes a new instance of the GnssClientErrorEventArgs class without more info."];
+search_result['24']=["topic_000000000000000B.html","GnssErrorEventArgs(String) Constructor","Initializes a new instance of the GnssErrorEventArgs class without more info."];

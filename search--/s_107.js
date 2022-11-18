@@ -1,0 +1,1 @@
+search_result['107']=["topic_000000000000003B.html","GpsdClient(GpsdClientOptions, ILogger\u0026lt;GpsdClient\u0026gt;) Constructor","Initializes a new instance of the GpsdClient class."];

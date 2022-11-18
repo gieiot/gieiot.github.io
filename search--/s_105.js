@@ -1,0 +1,1 @@
+search_result['105']=["topic_000000000000003A.html","GpsdClient(GpsdClientOptions) Constructor","Initializes a new instance of the GpsdClient class."];

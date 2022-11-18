@@ -1,1 +1,1 @@
-search_result['75']=["topic_0000000000000028.html","Gie Iot Documentation ",""];
+search_result['75']=["topic_0000000000000028.html","Gie.Iot.Acquisition.Gnss.Gpsd Namespace","Client to get GNSS data from GPSd daemon service."];

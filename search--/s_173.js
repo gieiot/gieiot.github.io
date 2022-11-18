@@ -1,0 +1,1 @@
+search_result['173']=["topic_0000000000000059_overloads--.html","ISerialApi.ReceiveDataAsync Method","Receives the payload of an Api frame."];

@@ -1,0 +1,1 @@
+search_result['124']=["topic_0000000000000045.html","SerialApiDigi.SendDataAsync (List\u0026lt;Byte\u0026gt;) Method","Sends a payload in an Api frame."];

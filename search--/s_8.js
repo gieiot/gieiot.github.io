@@ -1,1 +1,1 @@
-search_result['8']=["topic_0000000000000005.html","GnssClientConnectedEventArgs Constructor","Initializes a new instance of the GnssClientConnectedEventArgs class."];
+search_result['8']=["topic_0000000000000005.html","GnssConnectedEventArgs Constructor","Initializes a new instance of the GnssConnectedEventArgs class."];

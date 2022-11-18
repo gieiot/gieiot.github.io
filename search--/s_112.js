@@ -1,0 +1,1 @@
+search_result['112']=["topic_0000000000000040.html","SerialApiDigi Class","Implements\r\n\r\nDigi Api\r\n\r\ncommunication"];

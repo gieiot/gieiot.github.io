@@ -1,0 +1,1 @@
+search_result['316']=["topic_00000000000000A9_overloads--.html","SerialPortMock.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer."];

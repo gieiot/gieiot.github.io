@@ -1,0 +1,1 @@
+search_result['82']=["topic_000000000000002A.html","GpsdClientOptions.ServerAddress Property","Gets and sets gpsd service ip."];

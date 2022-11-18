@@ -1,0 +1,1 @@
+search_result['241']=["topic_000000000000007C.html","SerialPort.IsOpen Property","True if underlying serial port is open."];

@@ -1,0 +1,1 @@
+search_result['202']=["topic_0000000000000069_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer."];

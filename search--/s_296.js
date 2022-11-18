@@ -1,0 +1,1 @@
+search_result['296']=["topic_000000000000009A.html","BaudRateChanged Event","Raised when BaudRate changes."];

@@ -1,0 +1,1 @@
+search_result['271']=["topic_000000000000008D_overloads--.html","SerialPort.ReadLineAsync Method","Reads up to the NewLine value in the input buffer."];

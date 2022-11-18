@@ -1,0 +1,1 @@
+search_result['111']=["topic_000000000000003F.html","Gie.Iot.Hardware.Ports Namespace","Contains classes for serial communications."];

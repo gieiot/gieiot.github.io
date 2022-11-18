@@ -1,1 +1,1 @@
-search_result['23']=["topic_000000000000000A.html","GnssClientErrorEventArgs.MoreInfo Property","Gets more info about error."];
+search_result['23']=["topic_000000000000000A.html","GnssErrorEventArgs.MoreInfo Property","Gets more info about error."];

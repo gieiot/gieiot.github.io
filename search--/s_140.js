@@ -1,0 +1,1 @@
+search_result['140']=["topic_000000000000004D.html","Gie.Iot.Hardware.Ports.Commons Namespace","Contains interfaces, models and other commons for serial communications."];

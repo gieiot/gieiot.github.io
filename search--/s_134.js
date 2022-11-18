@@ -1,0 +1,1 @@
+search_result['134']=["topic_000000000000004A.html","SerialApiDigi.ReceiveDataAsync (Int32) Method","Receives the payload of an Api frame with timeout."];

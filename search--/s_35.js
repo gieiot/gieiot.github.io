@@ -1,1 +1,1 @@
-search_result['35']=["topic_000000000000000F.html","GnssClientStatusEventArgs Constructor","Initializes a new instance of the GnssClientStatusEventArgs class."];
+search_result['35']=["topic_000000000000000F.html","GnssStatusEventArgs Constructor","Initializes a new instance of the GnssStatusEventArgs class."];

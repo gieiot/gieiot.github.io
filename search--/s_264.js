@@ -1,0 +1,1 @@
+search_result['264']=["topic_000000000000008A.html","SerialPort.ReadBytesAsync (Int32, Int32) Method","Reads a specified number of bytes from the input buffer with timeout."];

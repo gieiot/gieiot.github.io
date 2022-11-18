@@ -1,0 +1,1 @@
+search_result['302']=["topic_00000000000000A0.html","SerialPortMock.PortName Property","Gets or sets the port for communications."];

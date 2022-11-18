@@ -1,1 +1,1 @@
-search_result['0']=["topic_0000000000000000.html","Gie.Iot.Acquisition.Gnss Namespace","Contains data models, interfaces and commons for gnss acquisition clients."];
+search_result['0']=["topic_0000000000000000.html","Gie.Iot.Acquisition.Gnss.Commons Namespace","Contains data models, interfaces and commons for gnss acquisition clients."];

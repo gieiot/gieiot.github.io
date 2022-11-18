@@ -1,0 +1,1 @@
+search_result['239']=["topic_000000000000007A.html","SerialPort.PortName Property","Gets or sets the port for communications."];

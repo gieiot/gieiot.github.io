@@ -1,0 +1,1 @@
+search_result['139']=["topic_000000000000004C_overloads--.html","SerialApiDigi.ReceiveDataAsync Method","Receives the payload of an Api frame with timeout and cancellation token."];

@@ -1,1 +1,1 @@
-search_result['22']=["topic_0000000000000009.html","GnssClientErrorEventArgs.Message Property","Gets the error message."];
+search_result['22']=["topic_0000000000000009.html","GnssErrorEventArgs.Message Property","Gets the error message."];

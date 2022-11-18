@@ -1,0 +1,1 @@
+search_result['246']=["topic_0000000000000080.html","SerialPort(IOptionsMonitor\u0026lt;SerialPortOptions\u0026gt;) Constructor","Initializes a new instance of the SerialPort class."];

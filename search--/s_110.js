@@ -1,0 +1,1 @@
+search_result['110']=["topic_000000000000003D.html","GpsdClient.CloseAsync Method","Closes the client.."];

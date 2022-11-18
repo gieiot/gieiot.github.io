@@ -1,0 +1,1 @@
+search_result['129']=["topic_0000000000000047_overloads--.html","SerialApiDigi.SendDataAsync Method","Sends a payload in an Api frame with cancellation token."];

@@ -1,0 +1,1 @@
+search_result['303']=["topic_00000000000000A1.html","SerialPortMock.BaudRate Property","Gets or sets the serial baud rate."];

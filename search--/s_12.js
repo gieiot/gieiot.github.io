@@ -1,1 +1,1 @@
-search_result['12']=["topic_0000000000000006_methods--.html","GnssClientDisconnectedEventArgs Methods",""];
+search_result['12']=["topic_0000000000000006_methods--.html","GnssDisconnectedEventArgs Methods",""];

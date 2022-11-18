@@ -1,0 +1,1 @@
+search_result['254']=["topic_0000000000000085.html","SerialPort.WriteBytesAsync (List\u0026lt;Byte\u0026gt;) Method","Writes the specified byte list to the output buffer."];

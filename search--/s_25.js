@@ -1,1 +1,1 @@
-search_result['25']=["topic_000000000000000B_overloads--.html","GnssClientErrorEventArgs Constructor","Initializes a new instance of the GnssClientErrorEventArgs class without more info."];
+search_result['25']=["topic_000000000000000B_overloads--.html","GnssErrorEventArgs Constructor","Initializes a new instance of the GnssErrorEventArgs class without more info."];

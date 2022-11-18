@@ -1,1 +1,1 @@
-search_result['15']=["topic_0000000000000007.html","GnssClientDisconnectedEventArgs Constructor","Initializes a new instance of the GnssClientDisconnectedEventArgs class."];
+search_result['15']=["topic_0000000000000007.html","GnssDisconnectedEventArgs Constructor","Initializes a new instance of the GnssDisconnectedEventArgs class."];

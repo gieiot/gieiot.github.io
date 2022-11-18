@@ -1,0 +1,1 @@
+search_result['171']=["topic_0000000000000058.html","ISerialApi.PortClose Method","Closes underlying serial port."];

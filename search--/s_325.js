@@ -1,0 +1,1 @@
+search_result['325']=["topic_00000000000000AE.html","SerialPortMock.ReadLineAsync (Int32) Method","Reads up to the NewLine value in the input buffer with timeout."];

@@ -1,0 +1,1 @@
+c['79']=[['80',"SerialApiDigi(ISerialPort) Constructor","topic_0000000000000042.html",0],['81',"SerialApiDigi(ISerialPort, ILogger) Constructor","topic_0000000000000041.html",0]];

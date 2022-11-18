@@ -1,1 +1,1 @@
-search_result['14']=["topic_0000000000000006_vars--.html","GnssClientDisconnectedEventArgs Fields",""];
+search_result['14']=["topic_0000000000000006_vars--.html","GnssDisconnectedEventArgs Fields",""];

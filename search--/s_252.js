@@ -1,0 +1,1 @@
+search_result['252']=["topic_0000000000000083.html","SerialPort.Open Method","Opens the serial port."];

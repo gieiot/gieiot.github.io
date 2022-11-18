@@ -1,0 +1,1 @@
+search_result['147']=["topic_000000000000004F.html","BaudRateChangedEventArgs.BaudRate Property","Gets or sets the serial baud rate."];

@@ -1,0 +1,1 @@
+c['179']=[['180',"BaudRateChangedEventArgs Class","topic_000000000000004E.html",1],['184',"PortNameChangedEventArgs Class","topic_0000000000000051.html",1],['188',"SerialApiErrorException Class","topic_0000000000000054.html",1],['190',"ISerialApi Interface","topic_0000000000000056.html",1],['204',"ISerialPort Interface","topic_0000000000000061.html",1]];

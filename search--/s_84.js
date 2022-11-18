@@ -1,0 +1,1 @@
+search_result['84']=["topic_000000000000002C.html","GpsdClientOptions.KeepAlivePeriod Property","Gets o sets the period in seconds at which gnss reports are expected."];

@@ -1,0 +1,1 @@
+search_result['218']=["topic_0000000000000071_overloads--.html","ISerialPort.WriteBytesAsync Method","Writes the specified byte list to the output buffer."];

@@ -1,0 +1,1 @@
+search_result['335']=["topic_00000000000000B3.html","SerialPortMock.WriteBytesAsync (List\u0026lt;Byte\u0026gt;, CancellationToken) Method","Writes the specified byte list to the output buffer with cancellation token."];

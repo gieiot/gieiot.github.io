@@ -1,0 +1,1 @@
+search_result['211']=["topic_000000000000006E.html","ISerialPort.ReadLineAsync (Int32) Method","Reads up to the NewLine value in the input buffer with timeout."];

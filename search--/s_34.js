@@ -1,1 +1,1 @@
-search_result['34']=["topic_000000000000000E.html","GnssClientStatusEventArgs.Status Property","Gets the GnssStatus."];
+search_result['34']=["topic_000000000000000E.html","GnssStatusEventArgs.Status Property","Gets the GnssStatus."];

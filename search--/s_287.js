@@ -1,0 +1,1 @@
+search_result['287']=["topic_0000000000000096.html","SerialPortMock Class","Mocks a serial port resource."];

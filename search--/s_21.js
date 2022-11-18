@@ -1,1 +1,1 @@
-search_result['21']=["topic_0000000000000008_vars--.html","GnssClientErrorEventArgs Fields",""];
+search_result['21']=["topic_0000000000000008_vars--.html","GnssErrorEventArgs Fields",""];

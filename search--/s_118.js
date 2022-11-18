@@ -1,0 +1,1 @@
+search_result['118']=["topic_0000000000000041.html","SerialApiDigi(ISerialPort, ILogger) Constructor","Initializes a new instance of the SerialApiDigi class."];

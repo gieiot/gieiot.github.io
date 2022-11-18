@@ -1,1 +1,1 @@
-search_result['5']=["topic_0000000000000004_methods--.html","GnssClientConnectedEventArgs Methods",""];
+search_result['5']=["topic_0000000000000004_methods--.html","GnssConnectedEventArgs Methods",""];
