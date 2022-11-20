@@ -1,1 +1,1 @@
-search_result['240']=["topic_000000000000007B.html","SerialPort.BaudRate Property","Gets or sets the serial baud rate."];
+search_result['240']=["topic_000000000000007B.html","ISerialPort.ReadBytesAsync (Int32, Int32) Method","Reads a specified number of bytes from the input buffer with timeout."];

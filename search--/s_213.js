@@ -1,1 +1,1 @@
-search_result['213']=["topic_000000000000006F.html","ISerialPort.ReadLineAsync (CancellationToken) Method","Reads up to the NewLine value in the input buffer with cancellation token."];
+search_result['213']=["topic_000000000000006B.html","ISerialFunctionServer Interface","Serial function client interface."];

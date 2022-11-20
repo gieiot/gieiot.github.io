@@ -1,1 +1,1 @@
-search_result['288']=["topic_0000000000000096_attached_props--.html","SerialPortMock Attached Properties",""];
+search_result['288']=["topic_0000000000000091_props--.html","SerialPort Properties",""];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialPort.PortName Property</title>
+	<title>ISerialPort.ReadBytesAsync (Int32) Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialPort.PortName Property</h1>
+		<h1 class="title">ISerialPort.ReadBytesAsync (Int32) Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000003F.html">Gie.Iot.Hardware.Ports</a>
+<a href="topic_000000000000004E.html">Gie.Iot.Hardware.Ports.Commons</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Gets or sets the port for communications.</summary-info>
+        <summary-info>Reads a specified number of bytes from the input buffer.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> PortName {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp"><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt;&gt; ReadBytesAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> <i>count</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -151,10 +151,29 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="count" class="parameterList">
+	<dt>
+		<span class="parameter">
+			count
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
+	</dd>
+</dl>
+<p>
+	Number of bytes to read 
+</p>
+
+<p />
 
 	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt;&gt; 
+		<p>
+		The contents of the input buffer up to the specified number of bytes. 
+	</p>
 	
 
 
@@ -187,6 +206,18 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 			<th>
 				Condition
 			</th>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="#">ArgumentOutOfRangeException</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					ArgumentOutOfRangeException 
+				</p>
+			</td>
 		</tr>
 		<tr>
 			<td>
@@ -272,11 +303,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000079.html">SerialPort Class</a><br />
+			<a href="topic_0000000000000072.html">ISerialPort Interface</a><br />
 
 
 
-<a href="topic_000000000000003F.html">Gie.Iot.Hardware.Ports Namespace</a><br />
+<a href="topic_000000000000004E.html">Gie.Iot.Hardware.Ports.Commons Namespace</a><br />
 
 
 			

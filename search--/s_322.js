@@ -1,1 +1,1 @@
-search_result['322']=["topic_00000000000000AC_overloads--.html","SerialPortMock.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer with timeout and cancellation token."];
+search_result['322']=["topic_00000000000000A5_overloads--.html","SerialPort.ReadLineAsync Method","Reads up to the NewLine value in the input buffer."];

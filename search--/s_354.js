@@ -1,1 +1,1 @@
-search_result['354']=["topic_00000000000000BB.html","SerialPortOptions.BaudRate Property","Gets or sets the serial baud rate. Defaults to 115200."];
+search_result['354']=["topic_00000000000000B9.html","SerialPortMock.BaudRate Property","Gets or sets the serial baud rate."];

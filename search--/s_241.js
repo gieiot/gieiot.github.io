@@ -1,1 +1,1 @@
-search_result['241']=["topic_000000000000007C.html","SerialPort.IsOpen Property","True if underlying serial port is open."];
+search_result['241']=["topic_000000000000007B_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer with timeout."];

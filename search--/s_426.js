@@ -1,0 +1,1 @@
+search_result['426']=["topic_00000000000000DC.html","SerialFunctionServer(ISerialApi, ILogger) Constructor","Initializes a new instance of the SerialFunctionServer class."];

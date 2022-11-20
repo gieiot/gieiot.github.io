@@ -1,1 +1,1 @@
-search_result['245']=["topic_000000000000007F_overloads--.html","SerialPort Constructor","Initializes a new instance of the SerialPort class."];
+search_result['245']=["topic_000000000000007D_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer with timeout and cancellation token."];

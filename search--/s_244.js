@@ -1,1 +1,1 @@
-search_result['244']=["topic_000000000000007F.html","SerialPort(IOptionsMonitor\u0026lt;SerialPortOptions\u0026gt;, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPort class."];
+search_result['244']=["topic_000000000000007D.html","ISerialPort.ReadBytesAsync (Int32, Int32, CancellationToken) Method","Reads a specified number of bytes from the input buffer with timeout and cancellation token."];

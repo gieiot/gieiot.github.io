@@ -1,1 +1,1 @@
-search_result['142']=["topic_000000000000004E_attached_props--.html","BaudRateChangedEventArgs Attached Properties",""];
+search_result['142']=["topic_000000000000004F.html","BaudRateChangedEventArgs Class","Provides data for the ISerialPort.BaudRateChanged event."];

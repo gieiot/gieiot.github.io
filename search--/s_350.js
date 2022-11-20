@@ -1,1 +1,1 @@
-search_result['350']=["topic_00000000000000B9_methods--.html","SerialPortOptions Methods",""];
+search_result['350']=["topic_00000000000000B5.html","SerialPortMock.ReadTextBuffer Property","Simulated port read text buffer."];

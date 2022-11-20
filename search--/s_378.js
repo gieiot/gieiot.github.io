@@ -1,0 +1,1 @@
+search_result['378']=["topic_00000000000000C7.html","SerialPortMock.ReadLineAsync (CancellationToken) Method","Reads up to the NewLine value in the input buffer with cancellation token."];

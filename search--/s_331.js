@@ -1,1 +1,1 @@
-search_result['331']=["topic_00000000000000B1.html","SerialPortMock.WriteBytesAsync (List\u0026lt;Byte\u0026gt;) Method","Writes the specified byte list to the output buffer."];
+search_result['331']=["topic_00000000000000AA.html","SerialPort.WriteLineAsync (String, Int32) Method","Writes the specified string and the NewLine value to the output buffer with timeout."];

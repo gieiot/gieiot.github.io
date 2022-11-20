@@ -1,1 +1,1 @@
-search_result['156']=["topic_0000000000000053.html","PortNameChangedEventArgs Constructor",""];
+search_result['156']=["topic_0000000000000053.html","PortNameChangedEventArgs.PortName Property","Gets or sets the communications port."];

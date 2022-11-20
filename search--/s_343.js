@@ -1,1 +1,1 @@
-search_result['343']=["topic_00000000000000B7.html","SerialPortMock.WriteLineAsync (String, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with cancellation token."];
+search_result['343']=["topic_00000000000000AE_vars--.html","SerialPortMock Fields",""];

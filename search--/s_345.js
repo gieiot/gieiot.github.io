@@ -1,1 +1,1 @@
-search_result['345']=["topic_00000000000000B8.html","SerialPortMock.WriteLineAsync (String, Int32, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with timeout and cancellation token."];
+search_result['345']=["topic_00000000000000B0.html","WriteTextBufferChanged Event","Raised when WriteTextBuffer is changed."];

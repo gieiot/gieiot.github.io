@@ -1,1 +1,1 @@
-search_result['252']=["topic_0000000000000083.html","SerialPort.Open Method","Opens the serial port."];
+search_result['252']=["topic_0000000000000081.html","ISerialPort.ReadLineAsync (Int32, CancellationToken) Method","Reads up to the NewLine value in the input buffer with timeout and cancellation token."];

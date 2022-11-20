@@ -1,1 +1,1 @@
-search_result['283']=["topic_0000000000000093_overloads--.html","SerialPort.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer with cancellation token."];
+search_result['283']=["topic_0000000000000090.html","SerialFunctionMessage.ToByteList Method","Gets the message as a byte list."];

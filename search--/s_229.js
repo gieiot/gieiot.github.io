@@ -1,1 +1,1 @@
-search_result['229']=["topic_0000000000000077.html","ISerialPort.WriteLineAsync (String, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with cancellation token."];
+search_result['229']=["topic_0000000000000072_props--.html","ISerialPort Properties",""];

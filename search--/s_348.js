@@ -1,1 +1,1 @@
-search_result['348']=["topic_00000000000000B9_attached_props--.html","SerialPortOptions Attached Properties",""];
+search_result['348']=["topic_00000000000000B3.html","SerialPortMock.ReadByteBuffer Property","Simulated port read byte buffer."];

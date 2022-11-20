@@ -1,1 +1,1 @@
-search_result['301']=["topic_000000000000009F.html","SerialPortMock.EchoEnabled Property","Enables echo. Contents written to write buffers are copied to corresponding read buffers."];
+search_result['301']=["topic_000000000000009A.html","SerialPort(SerialFunctionServerOptions) Constructor","Initializes a new instance of the SerialPort class."];

@@ -1,1 +1,1 @@
-search_result['356']=["topic_00000000000000BD.html","New Topic ",""];
+search_result['356']=["topic_00000000000000BB.html","SerialPortMock(IOptionsMonitor\u0026lt;SerialFunctionServerOptions\u0026gt;, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPortMock class."];

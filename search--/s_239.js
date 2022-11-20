@@ -1,1 +1,1 @@
-search_result['239']=["topic_000000000000007A.html","SerialPort.PortName Property","Gets or sets the port for communications."];
+search_result['239']=["topic_000000000000007A_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer."];

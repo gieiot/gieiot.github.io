@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialPortOptions.BaudRate Property</title>
+	<title>SerialPortMock(IOptionsMonitor&lt;SerialFunctionServerOptions&gt;, ILogger&lt;SerialPort&gt;) Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialPortOptions.BaudRate Property</h1>
+		<h1 class="title">SerialPortMock(IOptionsMonitor&lt;SerialFunctionServerOptions&gt;, ILogger&lt;SerialPort&gt;) Constructor</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Gets or sets the serial baud rate. Defaults to 115200.</summary-info>
+        <summary-info>Initializes a new instance of the <a target="_top" href="topic_00000000000000AE.html" onclick="this.target='';return true;">SerialPortMock</a> class.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> BaudRate {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public SerialPortMock(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionsmonitor-1">IOptionsMonitor</a>&lt;<a target="_top" href="topic_00000000000000D1.html" onclick="this.target='';return true;">SerialFunctionServerOptions</a>&gt; <i>optionsMonitor</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.ilogger-1">ILogger</a>&lt;<a target="_top" href="topic_0000000000000091.html" onclick="this.target='';return true;">SerialPort</a>&gt; <i>logger</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -151,11 +151,36 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="optionsMonitor" class="parameterList">
+	<dt>
+		<span class="parameter">
+			optionsMonitor
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionsmonitor-1">IOptionsMonitor</a>&lt;<a target="_top" href="topic_00000000000000D1.html" onclick="this.target='';return true;">SerialFunctionServerOptions</a>&gt; 
+	</dd>
+</dl>
+<p>
+	Notifies port when <a target="_top" href="topic_00000000000000D1.html" onclick="this.target='';return true;">SerialFunctionServerOptions</a> changes 
+</p>
+<dl paramName="logger" class="parameterList">
+	<dt>
+		<span class="parameter">
+			logger
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.ilogger-1">ILogger</a>&lt;<a target="_top" href="topic_0000000000000091.html" onclick="this.target='';return true;">SerialPort</a>&gt; 
+	</dd>
+</dl>
+<p>
+	Support for logging. 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
-	
+<p />
+
 
 
 
@@ -172,6 +197,38 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="exceptionsSection" class="section">	
+	<table>
+		<tr>
+			<th>
+				Exception type
+			</th>
+			<th>
+				Condition
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="#">ArgumentNullException</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					ArgumentNullException 
+				</p>
+			</td>
+		</tr>
+			
+	</table>
+	</div>
+</div>
 
 
 
@@ -240,7 +297,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000B9.html">SerialPortOptions Class</a><br />
+			<a href="topic_00000000000000AE.html">SerialPortMock Class</a><br />
 
 
 

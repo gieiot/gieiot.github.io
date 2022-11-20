@@ -1,1 +1,1 @@
-search_result['148']=["topic_0000000000000050.html","BaudRateChangedEventArgs Constructor",""];
+search_result['148']=["topic_0000000000000050.html","BaudRateChangedEventArgs.BaudRate Property","Gets or sets the serial baud rate."];

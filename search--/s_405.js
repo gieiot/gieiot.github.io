@@ -1,0 +1,1 @@
+search_result['405']=["topic_00000000000000D3.html","SerialFunctionServerOptions.BaudRate Property","Gets or sets the serial baud rate. Defaults to 115200."];

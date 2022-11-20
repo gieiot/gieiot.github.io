@@ -1,1 +1,1 @@
-search_result['238']=["topic_0000000000000079_vars--.html","SerialPort Fields",""];
+search_result['238']=["topic_000000000000007A.html","ISerialPort.ReadBytesAsync (Int32) Method","Reads a specified number of bytes from the input buffer."];

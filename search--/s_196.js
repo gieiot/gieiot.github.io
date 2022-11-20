@@ -1,1 +1,1 @@
-search_result['196']=["topic_0000000000000064.html","ISerialPort.IsOpen Property","True if underlying serial port is open."];
+search_result['196']=["topic_0000000000000064.html","ISerialApi.ReceiveDataAsync (Int32, CancellationToken) Method","Receives the payload of an Api frame with timeout and cancellation token."];

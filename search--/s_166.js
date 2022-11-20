@@ -1,1 +1,1 @@
-search_result['166']=["topic_0000000000000056_events--.html","ISerialApi Events",""];
+search_result['166']=["topic_0000000000000058.html","SerialFunctioServerErrorEventArgs Class","Provides data for the ISerialFunctionServer.ErrorReceived event."];

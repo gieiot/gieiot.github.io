@@ -1,1 +1,1 @@
-search_result['313']=["topic_00000000000000A7.html","SerialPortMock.Open Method","Opens the serial port."];
+search_result['313']=["topic_00000000000000A1.html","SerialPort.ReadBytesAsync (Int32) Method","Reads a specified number of bytes from the input buffer."];

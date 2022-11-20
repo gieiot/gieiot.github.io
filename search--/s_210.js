@@ -1,1 +1,1 @@
-search_result['210']=["topic_000000000000006D_overloads--.html","ISerialPort.ReadLineAsync Method","Reads up to the NewLine value in the input buffer."];
+search_result['210']=["topic_0000000000000069_props--.html","ISerialFunctionClient Properties",""];

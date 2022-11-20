@@ -1,1 +1,1 @@
-search_result['204']=["topic_000000000000006A_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer with timeout."];
+search_result['204']=["topic_0000000000000068.html","ISerialApi.SendDataAsync (List\u0026lt;Byte\u0026gt;, Int32, CancellationToken) Method","Sends a payload in an Api frame with timeout and cancellation token."];

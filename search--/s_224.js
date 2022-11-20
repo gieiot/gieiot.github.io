@@ -1,1 +1,1 @@
-search_result['224']=["topic_0000000000000074_overloads--.html","ISerialPort.WriteBytesAsync Method","Writes the specified byte list to the output buffer with timeout and cancellation token."];
+search_result['224']=["topic_0000000000000071.html","ISerialFunctionServer.SendMessageAsync Method","Sends a SerialFunctionMessage to a client with timeout and cancellation token."];

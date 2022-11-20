@@ -1,1 +1,1 @@
-search_result['304']=["topic_00000000000000A2.html","SerialPortMock.IsOpen Property","True if underlying serial port is open."];
+search_result['304']=["topic_000000000000009C.html","SerialPort.Close Method","Closes serial port."];

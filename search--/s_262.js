@@ -1,1 +1,1 @@
-search_result['262']=["topic_0000000000000089.html","SerialPort.ReadBytesAsync (Int32) Method","Reads a specified number of bytes from the input buffer."];
+search_result['262']=["topic_0000000000000086.html","ISerialPort.WriteLineAsync (String) Method","Writes the specified string and the NewLine value to the output buffer."];

@@ -1,1 +1,1 @@
-search_result['355']=["topic_00000000000000BC.html","Gie Iot Libraries ",""];
+search_result['355']=["topic_00000000000000BA.html","SerialPortMock.IsOpen Property","True if underlying serial port is open."];

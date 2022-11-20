@@ -1,1 +1,1 @@
-search_result['233']=["topic_0000000000000079.html","SerialPort Class","Represents a serial port resource."];
+search_result['233']=["topic_0000000000000075.html","ISerialPort.IsOpen Property","True if underlying serial port is open."];

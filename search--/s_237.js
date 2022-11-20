@@ -1,1 +1,1 @@
-search_result['237']=["topic_0000000000000079_props--.html","SerialPort Properties",""];
+search_result['237']=["topic_0000000000000079.html","ISerialPort.Close Method","Closes serial port."];

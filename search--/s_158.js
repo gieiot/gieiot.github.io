@@ -1,1 +1,1 @@
-search_result['158']=["topic_0000000000000054_attached_props--.html","SerialApiErrorException Attached Properties",""];
+search_result['158']=["topic_0000000000000055.html","SerialFunctionMessageEventArgs Class","Provides data for the ISerialFunctionServer.MessageReceived event."];

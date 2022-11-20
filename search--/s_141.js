@@ -1,1 +1,1 @@
-search_result['141']=["topic_000000000000004E.html","BaudRateChangedEventArgs Class","Provides data for the ISerialPort.BaudRateChanged event."];
+search_result['141']=["topic_000000000000004E.html","Gie.Iot.Hardware.Ports.Commons Namespace","Contains interfaces, models and other commons for serial communications."];

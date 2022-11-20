@@ -1,1 +1,1 @@
-search_result['299']=["topic_000000000000009D.html","SerialPortMock.ReadTextBuffer Property","Simulated port read text buffer."];
+search_result['299']=["topic_0000000000000099.html","SerialPort(SerialFunctionServerOptions, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPort class."];

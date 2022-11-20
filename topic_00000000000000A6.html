@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialPortMock(SerialPortOptions) Constructor</title>
+	<title>SerialPort.ReadLineAsync (Int32) Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialPortMock(SerialPortOptions) Constructor</h1>
+		<h1 class="title">SerialPort.ReadLineAsync (Int32) Method</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Initializes a new instance of the <a target="_top" href="topic_0000000000000096.html" onclick="this.target='';return true;">SerialPortMock</a> class.</summary-info>
+        <summary-info>Reads up to the <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline">NewLine</a> value in the input buffer with timeout.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public SerialPortMock(&nbsp;<br />   <a target="_top" href="topic_00000000000000B9.html" onclick="this.target='';return true;">SerialPortOptions</a> <i>options</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a>&gt; ReadLineAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> <i>timeout</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -152,22 +152,29 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="options" class="parameterList">
+	Parameters</h4><dl paramName="timeout" class="parameterList">
 	<dt>
 		<span class="parameter">
-			options
+			timeout
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="topic_00000000000000B9.html" onclick="this.target='';return true;">SerialPortOptions</a> 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
 	</dd>
 </dl>
 <p>
-	<a target="_top" href="topic_00000000000000B9.html" onclick="this.target='';return true;">SerialPortOptions</a> objetc for port configuration 
+	The time-out value of the operation in milliseconds 
 </p>
 
 <p />
 
+	<h4 class="subHeading">
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a>&gt; 
+		<p>
+		The contents of the input buffer up to the first occurrence of a <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline">NewLine</a> value. 
+	</p>
+	
 
 
 
@@ -203,12 +210,24 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 		<tr>
 			<td>
 				<p>
-<a href="#">ArgumentNullException</a>
+<a href="#">InvalidOperationException</a>
 				</p>
 			</td>
 			<td>
 				<p>
-					ArgumentNullException 
+					InvalidOperationException 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="#">TimeoutException</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					TimeoutException 
 				</p>
 			</td>
 		</tr>
@@ -284,7 +303,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000096.html">SerialPortMock Class</a><br />
+			<a href="topic_0000000000000091.html">SerialPort Class</a><br />
 
 
 

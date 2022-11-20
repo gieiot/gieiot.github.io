@@ -1,1 +1,1 @@
-search_result['294']=["topic_0000000000000098.html","WriteTextBufferChanged Event","Raised when WriteTextBuffer is changed."];
+search_result['294']=["topic_0000000000000096.html","BaudRateChanged Event","Raised when BaudRate changes."];

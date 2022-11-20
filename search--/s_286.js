@@ -1,1 +1,1 @@
-search_result['286']=["topic_0000000000000095.html","SerialPort.Dispose Method","Releases the unmanaged resources used by the underlying serial port."];
+search_result['286']=["topic_0000000000000091_events--.html","SerialPort Events",""];

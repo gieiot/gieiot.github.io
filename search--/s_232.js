@@ -1,1 +1,1 @@
-search_result['232']=["topic_0000000000000078_overloads--.html","ISerialPort.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer with timeout and cancellation token."];
+search_result['232']=["topic_0000000000000074.html","ISerialPort.BaudRate Property","Gets or sets the serial baud rate."];

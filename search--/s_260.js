@@ -1,1 +1,1 @@
-search_result['260']=["topic_0000000000000088.html","SerialPort.WriteBytesAsync (List\u0026lt;Byte\u0026gt;, Int32, CancellationToken) Method","Writes the specified byte list to the output buffer with timeout and cancellation token."];
+search_result['260']=["topic_0000000000000085.html","ISerialPort.WriteBytesAsync (List\u0026lt;Byte\u0026gt;, Int32, CancellationToken) Method","Writes the specified byte list to the output buffer with timeout and cancellation token."];

@@ -1,1 +1,1 @@
-search_result['195']=["topic_0000000000000063.html","ISerialPort.BaudRate Property","Gets or sets the serial baud rate."];
+search_result['195']=["topic_0000000000000063_overloads--.html","ISerialApi.ReceiveDataAsync Method","Receives the payload of an Api frame with cancellation token."];

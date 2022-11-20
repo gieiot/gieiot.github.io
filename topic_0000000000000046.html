@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialApiDigi.SendDataAsync (List&lt;Byte&gt;, Int32) Method</title>
+	<title>SerialApiDigi.SendDataAsync (List&lt;Byte&gt;) Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialApiDigi.SendDataAsync (List&lt;Byte&gt;, Int32) Method</h1>
+		<h1 class="title">SerialApiDigi.SendDataAsync (List&lt;Byte&gt;) Method</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Sends a payload in an Api frame with timeout.</summary-info>
+        <summary-info>Sends a payload in an Api frame.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> SendDataAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt; <i>data</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> <i>timeout</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> SendDataAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt; <i>data</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -164,19 +164,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 </dl>
 <p>
 	The payload as a byte list to send. 
-</p>
-<dl paramName="timeout" class="parameterList">
-	<dt>
-		<span class="parameter">
-			timeout
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
-	</dd>
-</dl>
-<p>
-	The time-out value of the operation in milliseconds 
 </p>
 
 <p />
@@ -238,18 +225,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 			<td>
 				<p>
 					InvalidOperationException 
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">TimeoutException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					TimeoutException 
 				</p>
 			</td>
 		</tr>

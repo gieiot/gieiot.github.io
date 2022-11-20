@@ -1,1 +1,1 @@
-search_result['194']=["topic_0000000000000062.html","ISerialPort.PortName Property","Gets or sets the port for communications."];
+search_result['194']=["topic_0000000000000063.html","ISerialApi.ReceiveDataAsync (CancellationToken) Method","Receives the payload of an Api frame with cancellation token."];

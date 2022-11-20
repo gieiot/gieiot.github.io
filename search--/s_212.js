@@ -1,1 +1,1 @@
-search_result['212']=["topic_000000000000006E_overloads--.html","ISerialPort.ReadLineAsync Method","Reads up to the NewLine value in the input buffer with timeout."];
+search_result['212']=["topic_000000000000006A.html","ISerialFunctionClient.SendMessageAsync Method","Sends a SerialFunctionMessage to a server with timeout and cancellation token."];

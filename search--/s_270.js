@@ -1,1 +1,1 @@
-search_result['270']=["topic_000000000000008D.html","SerialPort.ReadLineAsync  Method","Reads up to the NewLine value in the input buffer."];
+search_result['270']=["topic_000000000000008A.html","SerialFunctionMessage Class","Message object to be transmitted by serial function protocol."];

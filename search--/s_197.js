@@ -1,1 +1,1 @@
-search_result['197']=["topic_0000000000000065.html","PortNameChanged Event","Raised when PortName changes."];
+search_result['197']=["topic_0000000000000064_overloads--.html","ISerialApi.ReceiveDataAsync Method","Receives the payload of an Api frame with timeout and cancellation token."];

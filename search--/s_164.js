@@ -1,1 +1,1 @@
-search_result['164']=["topic_0000000000000056.html","ISerialApi Interface","Serial api interface."];
+search_result['164']=["topic_0000000000000056.html","SerialFunctionMessageEventArgs.Message Property","Gets or sets the received message."];

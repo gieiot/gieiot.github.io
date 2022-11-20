@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialPortMock.WriteLineAsync (String, CancellationToken) Method</title>
+	<title>SerialPortMock.EchoEnabled Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialPortMock.WriteLineAsync (String, CancellationToken) Method</h1>
+		<h1 class="title">SerialPortMock.EchoEnabled Property</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Writes the specified string and the NewLine value to the output buffer with cancellation token.</summary-info>
+        <summary-info>Enables echo. Contents written to write buffers are copied to corresponding read buffers.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> WriteLineAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>text</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> <i>ct</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a> EchoEnabled {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -151,39 +151,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="text" class="parameterList">
-	<dt>
-		<span class="parameter">
-			text
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
-	</dd>
-</dl>
-<p>
-	The string to write to the output buffer. 
-</p>
-<dl paramName="ct" class="parameterList">
-	<dt>
-		<span class="parameter">
-			ct
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> 
-	</dd>
-</dl>
-<p>
-	A cancellation token that can be used to signal the asynchronous operation should be canceled. 
-</p>
-
-<p />
 
 	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> 
+		Property Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a> 
 	
 
 
@@ -201,62 +172,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="exceptionsSection" class="section">	
-	<table>
-		<tr>
-			<th>
-				Exception type
-			</th>
-			<th>
-				Condition
-			</th>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">ArgumentNullException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					ArgumentNullException 
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">InvalidOperationException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					InvalidOperationException 
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">OperationCanceledException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					OperationCanceledException 
-				</p>
-			</td>
-		</tr>
-			
-	</table>
-	</div>
-</div>
 
 
 
@@ -325,7 +240,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000096.html">SerialPortMock Class</a><br />
+			<a href="topic_00000000000000AE.html">SerialPortMock Class</a><br />
 
 
 

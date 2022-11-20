@@ -1,1 +1,1 @@
-search_result['315']=["topic_00000000000000A9.html","SerialPortMock.ReadBytesAsync (Int32) Method","Reads a specified number of bytes from the input buffer."];
+search_result['315']=["topic_00000000000000A2.html","SerialPort.ReadBytesAsync (Int32, Int32) Method","Reads a specified number of bytes from the input buffer with timeout."];

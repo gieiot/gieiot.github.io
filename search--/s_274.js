@@ -1,1 +1,1 @@
-search_result['274']=["topic_000000000000008F.html","SerialPort.ReadLineAsync (CancellationToken) Method","Reads up to the NewLine value in the input buffer with cancellation token."];
+search_result['274']=["topic_000000000000008A_props--.html","SerialFunctionMessage Properties",""];

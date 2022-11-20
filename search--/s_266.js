@@ -1,1 +1,1 @@
-search_result['266']=["topic_000000000000008B.html","SerialPort.ReadBytesAsync (Int32, CancellationToken) Method","Reads a specified number of bytes from the input buffer with cancellation token."];
+search_result['266']=["topic_0000000000000088.html","ISerialPort.WriteLineAsync (String, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with cancellation token."];

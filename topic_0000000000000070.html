@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>ISerialPort.ReadLineAsync (Int32, CancellationToken) Method</title>
+	<title>ISerialFunctionServer.StopAsync Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">ISerialPort.ReadLineAsync (Int32, CancellationToken) Method</h1>
+		<h1 class="title">ISerialFunctionServer.StopAsync Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000004D.html">Gie.Iot.Hardware.Ports.Commons</a>
+<a href="topic_000000000000004E.html">Gie.Iot.Hardware.Ports.Commons</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Reads up to the <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline">NewLine</a> value in the input buffer with timeout and cancellation token.</summary-info>
+        <summary-info>Stops the server.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp"><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a>&gt; ReadLineAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> <i>timeout</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> <i>ct</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp"><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> StopAsync()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -151,42 +151,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="timeout" class="parameterList">
-	<dt>
-		<span class="parameter">
-			timeout
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
-	</dd>
-</dl>
-<p>
-	The time-out value of the operation in milliseconds 
-</p>
-<dl paramName="ct" class="parameterList">
-	<dt>
-		<span class="parameter">
-			ct
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> 
-	</dd>
-</dl>
-<p>
-	A cancellation token that can be used to signal the asynchronous operation should be canceled. 
-</p>
-
-<p />
 
 	<h4 class="subHeading">
 		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a>&gt; 
-		<p>
-		The contents of the input buffer up to the first occurrence of a <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline">NewLine</a> value. 
-	</p>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> 
 	
 
 
@@ -223,24 +191,12 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 		<tr>
 			<td>
 				<p>
-<a href="#">InvalidOperationException</a>
+<a href="#">Exception</a>
 				</p>
 			</td>
 			<td>
 				<p>
-					InvalidOperationException 
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">OperationCanceledException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					OperationCanceledException 
+					Exception 
 				</p>
 			</td>
 		</tr>
@@ -328,11 +284,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000061.html">ISerialPort Interface</a><br />
+			<a href="topic_000000000000006B.html">ISerialFunctionServer Interface</a><br />
 
 
 
-<a href="topic_000000000000004D.html">Gie.Iot.Hardware.Ports.Commons Namespace</a><br />
+<a href="topic_000000000000004E.html">Gie.Iot.Hardware.Ports.Commons Namespace</a><br />
 
 
 			

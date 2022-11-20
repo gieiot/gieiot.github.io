@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>Gie.Iot.Hardware.Ports.Commons Namespace</title>
+	<title>SerialApiDigi.ReceiveDataAsync (Int32, CancellationToken) Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,9 +74,14 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">Gie.Iot.Hardware.Ports.Commons Namespace</h1>
+		<h1 class="title">SerialApiDigi.ReceiveDataAsync (Int32, CancellationToken) Method</h1>
         
 		<div class="metadata">
+        Namespace:
+<a href="topic_000000000000003F.html">Gie.Iot.Hardware.Ports</a>
+
+
+
 
         <br />Assembly: Gie.Iot.Hardware.Ports (in Gie.Iot.Hardware.Ports.dll)
 
@@ -84,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Contains interfaces, models and other commons for serial communications.</summary-info>
+        <summary-info>Receives the payload of an Api frame with timeout and cancellation token.</summary-info>
 
 
 
@@ -94,10 +99,51 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
+
+<div class="section_container">
+	<div id="syntaxSection" class="section">	
 	
 	
 	<div id="syntaxCodeBlocks">
 		
+		<div class="codeSnippetContainer">
+			<div class="codeSnippetTabs">
+				<div class="codeSnippetTabLeftCorner">
+				</div>
+				<div class="codeSnippetTab csFirstTab csNaTab codeVB">
+					<a>VB</a>
+				</div>
+				<div class="codeSnippetTab csActiveTab codeCsharp">
+					<a href="javascript: CodeSnippet_SetLanguage('Csharp');">C#</a>
+				</div>
+				<div class="codeSnippetTab csNaTab codeFsharp">
+					<a href="javascript: CodeSnippet_SetLanguage('Fsharp');">F#</a>
+				</div>
+				<div class="codeSnippetTab csNaTab codeCpp">
+					<a href="javascript: CodeSnippet_SetLanguage('Cpp');">C++</a>
+				</div>
+				<div class="codeSnippetTab csLastTab csNaTab codeJScript">
+					<a href="javascript: CodeSnippet_SetLanguage('JScript');">JScript</a>
+				</div>
+				<div class="codeSnippetTabRightCorner">
+				</div>
+				<div style="clear:both;">
+				</div>
+			</div>
+	
+			<div class="codeSnippetCodeCollection">
+				<div class="codeSnippetToolbar">
+					<a title="Copy to clipboard." href="javascript:void(0)" onclick="CopyCode(this);">Copy</a>
+				</div>
+				
+				<div class="codeSnippetCode codeCsharp">
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt;&gt; ReceiveDataAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> <i>timeout</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> <i>ct</i>&nbsp;<br />)</pre>			
+				</div>
+				<div class="codeSnippetCode codeNA">
+					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
+				</div>
+			</div>
+		</div>
 
 
 		
@@ -105,6 +151,43 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="timeout" class="parameterList">
+	<dt>
+		<span class="parameter">
+			timeout
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.int32">int</a> 
+	</dd>
+</dl>
+<p>
+	The time-out value of the operation in milliseconds. 
+</p>
+<dl paramName="ct" class="parameterList">
+	<dt>
+		<span class="parameter">
+			ct
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken">CancellationToken</a> 
+	</dd>
+</dl>
+<p>
+	A cancellation token that can be used to signal the asynchronous operation should be canceled. 
+</p>
+
+<p />
+
+	<h4 class="subHeading">
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt;&gt; 
+		<p>
+		The payload as a byte list received. 
+	</p>
+	
 
 
 
@@ -116,179 +199,68 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
-
-
-
-
-
-
+	</div>
+</div>
 
 
 
 <div class="section_container">
 	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Classes</a></span>
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
 		<div>&nbsp;</div>
 	</div>
 
-	<div id="ClassSection" class="section">	
-  <table class="memberListTable">
-    <tr>
-      <th></th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-    </tr>
+	<div id="exceptionsSection" class="section">	
+	<table>
+		<tr>
+			<th>
+				Exception type
+			</th>
+			<th>
+				Condition
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="#">OperationCanceledException</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					OperationCanceledException 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="topic_000000000000005B.html">SerialApiErrorException</a>
 
-
-<!-- Classes -->
-	<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
-
-
-    
-	  </td>
-	  <td>
-	    <a href="topic_000000000000004E.html">BaudRateChangedEventArgs</a>
-	  </td>
-	  <td>
-
-Provides data for the <a target="_top" href="topic_0000000000000066.html" onclick="this.target='';return true;">ISerialPort.BaudRateChanged</a> event.
-
-		</td>
-	</tr>
-	<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
-
-
-    
-	  </td>
-	  <td>
-	    <a href="topic_0000000000000051.html">PortNameChangedEventArgs</a>
-	  </td>
-	  <td>
-
-Provides data for the <a target="_top" href="topic_0000000000000065.html" onclick="this.target='';return true;">ISerialPort.PortNameChanged</a> event.
-
-		</td>
-	</tr>
-	<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public class" title="Public class" src="msdn2019/pubclass.png"></img>
-
-
-    
-	  </td>
-	  <td>
-	    <a href="topic_0000000000000054.html">SerialApiErrorException</a>
-	  </td>
-	  <td>
-
-Exception thrown on error while receiving data.
-
-		</td>
-	</tr>
-
-<!-- Classes End -->
-
-<!-- Standard Modules -->
-
-<!-- Standard Modules End -->
-
-  </table>
-
-  <a href="#mainBody">
-    Top
-  </a>
-
-	</div>					
-</div>
-
-
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Interfaces</a></span>
-		<div>&nbsp;</div>
+				</p>
+			</td>
+			<td>
+				<p>
+					SerialApiErrorException 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+<a href="#">TimeoutException</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					TimeoutException 
+				</p>
+			</td>
+		</tr>
+			
+	</table>
 	</div>
-
-	<div id="InterfaceSection" class="section">	
-  <table class="memberListTable">
-    <tr>
-      <th></th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-    </tr>
-
-	<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public interface" title="Public interface" src="msdn2019/pubinterface.png"></img>
-
-
-    
-	  </td>
-	  <td>
-	    <a href="topic_0000000000000056.html">ISerialApi</a>
-	  </td>
-	  <td>
-
-Serial api interface.
-
-		</td>
-	</tr>
-	<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public interface" title="Public interface" src="msdn2019/pubinterface.png"></img>
-
-
-    
-	  </td>
-	  <td>
-	    <a href="topic_0000000000000061.html">ISerialPort</a>
-	  </td>
-	  <td>
-
-Serial port resource interface.
-
-		</td>
-	</tr>
-
-  </table>
-
-  <a href="#mainBody">
-    Top
-  </a>
-
-	</div>					
 </div>
-
-
-
-
-
 
 
 
@@ -349,8 +321,26 @@ Serial port resource interface.
 	</div>					
 </div>
 
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">See Also</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="seeAlsoSection" class="section">	
+		<div>
+			<a href="topic_0000000000000040.html">SerialApiDigi Class</a><br />
 
 
+
+<a href="topic_000000000000003F.html">Gie.Iot.Hardware.Ports Namespace</a><br />
+
+
+			
+
+		</div>
+	</div>					
+</div>
 			</div>
 
 			<div id="internal-toc-area">
@@ -369,3 +359,4 @@ Serial port resource interface.
     </div>
   </body>
 </html>
+

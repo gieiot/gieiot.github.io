@@ -1,1 +1,1 @@
-search_result['173']=["topic_0000000000000059_overloads--.html","ISerialApi.ReceiveDataAsync Method","Receives the payload of an Api frame."];
+search_result['173']=["topic_000000000000005A.html","SerialFunctioServerErrorEventArgs Constructor","Provides data for the ISerialFunctionServer.ErrorReceived event."];

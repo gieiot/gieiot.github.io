@@ -1,1 +1,1 @@
-search_result['353']=["topic_00000000000000BA.html","SerialPortOptions.Name Property","Gets or sets the port for communications."];
+search_result['353']=["topic_00000000000000B8.html","SerialPortMock.PortName Property","Gets or sets the port for communications."];

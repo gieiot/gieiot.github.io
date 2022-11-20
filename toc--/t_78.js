@@ -1,1 +1,1 @@
-c['78']=[['79',"SerialApiDigi Constructor","topic_0000000000000041_overloads--.html",1],['82',"Methods","topic_0000000000000040_methods--.html",1]];
+c['78']=[['79',"SerialApiDigi Constructor","topic_0000000000000042_overloads--.html",1],['82',"Properties","topic_0000000000000040_props--.html",1],['84',"Methods","topic_0000000000000040_methods--.html",1]];

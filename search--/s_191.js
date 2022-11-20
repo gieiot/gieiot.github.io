@@ -1,1 +1,1 @@
-search_result['191']=["topic_0000000000000061_methods--.html","ISerialPort Methods",""];
+search_result['191']=["topic_0000000000000061_overloads--.html","ISerialApi.ReceiveDataAsync Method","Receives the payload of an Api frame."];

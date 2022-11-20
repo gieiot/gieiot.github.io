@@ -1,1 +1,1 @@
-search_result['243']=["topic_000000000000007E.html","BaudRateChanged Event","Raised when BaudRate changes."];
+search_result['243']=["topic_000000000000007C_overloads--.html","ISerialPort.ReadBytesAsync Method","Reads a specified number of bytes from the input buffer with cancellation token."];

@@ -1,1 +1,1 @@
-search_result['157']=["topic_0000000000000054.html","SerialApiErrorException Class","Exception thrown on error while receiving data."];
+search_result['157']=["topic_0000000000000054.html","PortNameChangedEventArgs Constructor","Provides data for the ISerialPort.PortNameChanged event."];

@@ -1,1 +1,1 @@
-search_result['121']=["topic_0000000000000042_overloads--.html","SerialApiDigi Constructor","Initializes a new instance of the SerialApiDigi class."];
+search_result['121']=["topic_0000000000000043.html","SerialApiDigi(ISerialPort) Constructor","Initializes a new instance of the SerialApiDigi class."];

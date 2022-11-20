@@ -1,1 +1,1 @@
-search_result['176']=["topic_000000000000005B.html","ISerialApi.ReceiveDataAsync (CancellationToken) Method","Receives the payload of an Api frame with cancellation token."];
+search_result['176']=["topic_000000000000005B_events--.html","SerialApiErrorException Events",""];

@@ -1,1 +1,1 @@
-search_result['349']=["topic_00000000000000B9_events--.html","SerialPortOptions Events",""];
+search_result['349']=["topic_00000000000000B4.html","SerialPortMock.WriteByteBuffer Property","Simulated port write byte buffer."];

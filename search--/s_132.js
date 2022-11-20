@@ -1,1 +1,1 @@
-search_result['132']=["topic_0000000000000049.html","SerialApiDigi.ReceiveDataAsync  Method","Receives the payload of an Api frame."];
+search_result['132']=["topic_0000000000000049_overloads--.html","SerialApiDigi.SendDataAsync Method","Sends a payload in an Api frame with timeout and cancellation token."];

@@ -1,1 +1,1 @@
-search_result['188']=["topic_0000000000000061.html","ISerialPort Interface","Serial port resource interface."];
+search_result['188']=["topic_000000000000005F.html","ISerialApi.PortOpen Method","Opens underlying serial port."];

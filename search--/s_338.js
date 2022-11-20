@@ -1,1 +1,1 @@
-search_result['338']=["topic_00000000000000B4_overloads--.html","SerialPortMock.WriteBytesAsync Method","Writes the specified byte list to the output buffer with timeout and cancellation token."];
+search_result['338']=["topic_00000000000000AE.html","SerialPortMock Class","Mocks a serial port resource."];

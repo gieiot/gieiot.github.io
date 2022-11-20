@@ -1,1 +1,1 @@
-search_result['187']=["topic_0000000000000060_overloads--.html","ISerialApi.SendDataAsync Method","Sends a payload in an Api frame with timeout and cancellation token."];
+search_result['187']=["topic_000000000000005E.html","ISerialApi.IsPortOpened Property","True if underlying serial port is opened."];

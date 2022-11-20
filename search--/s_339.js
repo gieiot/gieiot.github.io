@@ -1,1 +1,1 @@
-search_result['339']=["topic_00000000000000B5.html","SerialPortMock.WriteLineAsync (String) Method","Writes the specified string and the NewLine value to the output buffer."];
+search_result['339']=["topic_00000000000000AE_attached_props--.html","SerialPortMock Attached Properties",""];

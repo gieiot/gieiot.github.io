@@ -1,1 +1,1 @@
-search_result['296']=["topic_000000000000009A.html","BaudRateChanged Event","Raised when BaudRate changes."];
+search_result['296']=["topic_0000000000000097_overloads--.html","SerialPort Constructor","Initializes a new instance of the SerialPort class."];

@@ -1,1 +1,1 @@
-search_result['185']=["topic_000000000000005F_overloads--.html","ISerialApi.SendDataAsync Method","Sends a payload in an Api frame with cancellation token."];
+search_result['185']=["topic_000000000000005D_props--.html","ISerialApi Properties",""];

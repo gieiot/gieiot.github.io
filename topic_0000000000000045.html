@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SerialApiDigi.SendDataAsync (List&lt;Byte&gt;) Method</title>
+	<title>SerialApiDigi.PortClose Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SerialApiDigi.SendDataAsync (List&lt;Byte&gt;) Method</h1>
+		<h1 class="title">SerialApiDigi.PortClose Method</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Sends a payload in an Api frame.</summary-info>
+        <summary-info>Closes underlying serial port.</summary-info>
 
 
 
@@ -137,7 +137,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> SendDataAsync(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt; <i>data</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.void">void</a> PortClose()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -151,27 +151,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="data" class="parameterList">
-	<dt>
-		<span class="parameter">
-			data
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>&gt; 
-	</dd>
-</dl>
-<p>
-	The payload as a byte list to send. 
-</p>
 
-<p />
-
-	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> 
-	
 
 
 
@@ -207,24 +187,12 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 		<tr>
 			<td>
 				<p>
-<a href="#">ArgumentNullException</a>
+<a href="#">Exception</a>
 				</p>
 			</td>
 			<td>
 				<p>
-					ArgumentNullException 
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">InvalidOperationException</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					InvalidOperationException 
+					Exception 
 				</p>
 			</td>
 		</tr>

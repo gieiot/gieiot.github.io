@@ -1,1 +1,1 @@
-search_result['305']=["topic_00000000000000A3.html","SerialPortMock(IOptionsMonitor\u0026lt;SerialPortOptions\u0026gt;, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPortMock class."];
+search_result['305']=["topic_000000000000009D.html","SerialPort.WriteBytesAsync (List\u0026lt;Byte\u0026gt;) Method","Writes the specified byte list to the output buffer."];

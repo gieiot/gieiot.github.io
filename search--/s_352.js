@@ -1,1 +1,1 @@
-search_result['352']=["topic_00000000000000B9_vars--.html","SerialPortOptions Fields",""];
+search_result['352']=["topic_00000000000000B7.html","SerialPortMock.EchoEnabled Property","Enables echo. Contents written to write buffers are copied to corresponding read buffers."];

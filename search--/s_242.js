@@ -1,1 +1,1 @@
-search_result['242']=["topic_000000000000007D.html","PortNameChanged Event","Raised when PortName changes."];
+search_result['242']=["topic_000000000000007C.html","ISerialPort.ReadBytesAsync (Int32, CancellationToken) Method","Reads a specified number of bytes from the input buffer with cancellation token."];

@@ -1,1 +1,1 @@
-search_result['216']=["topic_0000000000000070_overloads--.html","ISerialPort.ReadLineAsync Method","Reads up to the NewLine value in the input buffer with timeout and cancellation token."];
+search_result['216']=["topic_000000000000006B_methods--.html","ISerialFunctionServer Methods",""];

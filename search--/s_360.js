@@ -1,0 +1,1 @@
+search_result['360']=["topic_00000000000000BD.html","SerialPortMock(SerialFunctionServerOptions, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPortMock class."];

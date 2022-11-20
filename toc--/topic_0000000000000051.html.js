@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"Gie Iot Libraries","topic_00000000000000BC.html"],['179',"Gie.Iot.Hardware.Ports.Commons Namespace","topic_000000000000004D.html"],['184',"PortNameChangedEventArgs Class","topic_0000000000000051.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Gie Iot Libraries","topic_00000000000000E1.html"],['200',"Gie.Iot.Hardware.Ports.Commons Namespace","topic_000000000000004E.html"],['201',"BaudRateChangedEventArgs Class","topic_000000000000004F.html"],['202',"BaudRateChangedEventArgs Constructor","topic_0000000000000051.html"]];

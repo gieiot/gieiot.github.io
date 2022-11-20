@@ -1,1 +1,1 @@
-search_result['170']=["topic_0000000000000057.html","ISerialApi.PortOpen Method","Opens underlying serial port."];
+search_result['170']=["topic_0000000000000058_props--.html","SerialFunctioServerErrorEventArgs Properties",""];

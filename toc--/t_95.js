@@ -1,1 +1,0 @@
-c['95']=[['96',"SerialPort Constructor","topic_000000000000007F_overloads--.html",1],['101',"Properties","topic_0000000000000079_props--.html",1],['105',"Methods","topic_0000000000000079_methods--.html",1],['129',"Events","topic_0000000000000079_events--.html",1]];

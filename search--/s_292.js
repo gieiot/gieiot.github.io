@@ -1,1 +1,1 @@
-search_result['292']=["topic_0000000000000096_vars--.html","SerialPortMock Fields",""];
+search_result['292']=["topic_0000000000000094.html","SerialPort.IsOpen Property","True if underlying serial port is open."];

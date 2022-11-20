@@ -1,1 +1,1 @@
-search_result['279']=["topic_0000000000000091_overloads--.html","SerialPort.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer."];
+search_result['279']=["topic_000000000000008E.html","SerialFunctionMessage Constructor","Initializes new instance of SerialFunctionMessage class."];

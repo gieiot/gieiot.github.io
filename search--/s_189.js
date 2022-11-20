@@ -1,1 +1,1 @@
-search_result['189']=["topic_0000000000000061_attached_props--.html","ISerialPort Attached Properties",""];
+search_result['189']=["topic_0000000000000060.html","ISerialApi.PortClose Method","Closes underlying serial port."];

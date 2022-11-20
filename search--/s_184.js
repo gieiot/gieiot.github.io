@@ -1,1 +1,1 @@
-search_result['184']=["topic_000000000000005F.html","ISerialApi.SendDataAsync (List\u0026lt;Byte\u0026gt;, CancellationToken) Method","Sends a payload in an Api frame with cancellation token."];
+search_result['184']=["topic_000000000000005D_methods--.html","ISerialApi Methods",""];

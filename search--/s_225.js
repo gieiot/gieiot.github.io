@@ -1,1 +1,1 @@
-search_result['225']=["topic_0000000000000075.html","ISerialPort.WriteLineAsync (String) Method","Writes the specified string and the NewLine value to the output buffer."];
+search_result['225']=["topic_0000000000000072.html","ISerialPort Interface","Serial port resource interface."];

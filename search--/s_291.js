@@ -1,1 +1,1 @@
-search_result['291']=["topic_0000000000000096_props--.html","SerialPortMock Properties",""];
+search_result['291']=["topic_0000000000000093.html","SerialPort.BaudRate Property","Gets or sets the serial baud rate."];

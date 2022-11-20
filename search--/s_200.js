@@ -1,1 +1,1 @@
-search_result['200']=["topic_0000000000000068.html","ISerialPort.Close Method","Closes serial port."];
+search_result['200']=["topic_0000000000000066.html","ISerialApi.SendDataAsync (List\u0026lt;Byte\u0026gt;, Int32) Method","Sends a payload in an Api frame with timeout."];

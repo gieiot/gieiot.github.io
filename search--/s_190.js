@@ -1,1 +1,1 @@
-search_result['190']=["topic_0000000000000061_events--.html","ISerialPort Events",""];
+search_result['190']=["topic_0000000000000061.html","ISerialApi.ReceiveDataAsync  Method","Receives the payload of an Api frame."];

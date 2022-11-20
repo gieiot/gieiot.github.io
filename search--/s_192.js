@@ -1,1 +1,1 @@
-search_result['192']=["topic_0000000000000061_props--.html","ISerialPort Properties",""];
+search_result['192']=["topic_0000000000000062.html","ISerialApi.ReceiveDataAsync (Int32) Method","Receives the payload of an Api frame with timeout."];

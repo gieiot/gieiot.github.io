@@ -1,0 +1,1 @@
+search_result['359']=["topic_00000000000000BC_overloads--.html","SerialPortMock Constructor","Initializes a new instance of the SerialPortMock class."];

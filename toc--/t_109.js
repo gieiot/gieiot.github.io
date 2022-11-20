@@ -1,1 +1,1 @@
-c['109']=[['110',"ReadBytesAsync(int) Method","topic_0000000000000089.html",0],['111',"ReadBytesAsync(int, CancellationToken) Method","topic_000000000000008B.html",0],['112',"ReadBytesAsync(int, int) Method","topic_000000000000008A.html",0],['113',"ReadBytesAsync(int, int, CancellationToken) Method","topic_000000000000008C.html",0]];
+c['109']=[['110',"SendMessageAsync Method","topic_00000000000000E0.html",0],['111',"StartAsync Method","topic_00000000000000DE.html",0],['112',"StopAsync Method","topic_00000000000000DF.html",0]];

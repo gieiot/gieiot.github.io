@@ -1,1 +1,1 @@
-search_result['145']=["topic_000000000000004E_props--.html","BaudRateChangedEventArgs Properties",""];
+search_result['145']=["topic_000000000000004F_methods--.html","BaudRateChangedEventArgs Methods",""];

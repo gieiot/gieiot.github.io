@@ -1,1 +1,1 @@
-search_result['336']=["topic_00000000000000B3_overloads--.html","SerialPortMock.WriteBytesAsync Method","Writes the specified byte list to the output buffer with cancellation token."];
+search_result['336']=["topic_00000000000000AC_overloads--.html","SerialPort.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer with timeout and cancellation token."];

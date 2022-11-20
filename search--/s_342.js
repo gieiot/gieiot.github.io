@@ -1,1 +1,1 @@
-search_result['342']=["topic_00000000000000B6_overloads--.html","SerialPortMock.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer with timeout."];
+search_result['342']=["topic_00000000000000AE_props--.html","SerialPortMock Properties",""];

@@ -1,1 +1,1 @@
-search_result['295']=["topic_0000000000000099.html","PortNameChanged Event","Raised when PortName changes."];
+search_result['295']=["topic_0000000000000097.html","SerialPort(IOptionsMonitor\u0026lt;SerialFunctionServerOptions\u0026gt;, ILogger\u0026lt;SerialPort\u0026gt;) Constructor","Initializes a new instance of the SerialPort class."];

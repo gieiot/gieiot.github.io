@@ -1,1 +1,1 @@
-search_result['340']=["topic_00000000000000B5_overloads--.html","SerialPortMock.WriteLineAsync Method","Writes the specified string and the NewLine value to the output buffer."];
+search_result['340']=["topic_00000000000000AE_events--.html","SerialPortMock Events",""];

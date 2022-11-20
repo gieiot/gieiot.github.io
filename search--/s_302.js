@@ -1,1 +1,1 @@
-search_result['302']=["topic_00000000000000A0.html","SerialPortMock.PortName Property","Gets or sets the port for communications."];
+search_result['302']=["topic_000000000000009A_overloads--.html","SerialPort Constructor","Initializes a new instance of the SerialPort class."];

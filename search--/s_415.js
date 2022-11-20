@@ -1,0 +1,1 @@
+search_result['415']=["topic_00000000000000D6_overloads--.html","SerialFunctionClient Constructor","Initializes a new instance of the SerialFunctionClient class."];

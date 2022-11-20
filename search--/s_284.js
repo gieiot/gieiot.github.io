@@ -1,1 +1,1 @@
-search_result['284']=["topic_0000000000000094.html","SerialPort.WriteLineAsync (String, Int32, CancellationToken) Method","Writes the specified string and the NewLine value to the output buffer with timeout and cancellation token."];
+search_result['284']=["topic_0000000000000091.html","SerialPort Class","Represents a serial port resource."];

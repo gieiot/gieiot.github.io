@@ -1,1 +1,1 @@
-search_result['234']=["topic_0000000000000079_attached_props--.html","SerialPort Attached Properties",""];
+search_result['234']=["topic_0000000000000076.html","PortNameChanged Event","Raised when PortName changes."];
